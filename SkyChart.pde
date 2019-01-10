@@ -146,6 +146,7 @@ void draw()
     }      
   }  
 
+  //Main draw function
   drawSky();  
   
 }
