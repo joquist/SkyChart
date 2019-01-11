@@ -9,6 +9,8 @@
  * ----------------------------------------------------------------------------
  */
 
+ //Branch change test
+ 
 import SimpleOpenNI.*;
 
 PShape galaxy;
@@ -28,7 +30,6 @@ int ptY;
 
 int skyFade = 0;
 int counter = 0;
-
 
 ArrayList<Star> stars;
 
